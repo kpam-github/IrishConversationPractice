@@ -2,15 +2,22 @@
   "title": "Irish Conversation Practice",
   "subtitle": "Choose a lesson to begin practising.",
   "donation": {
-    "url": "https://www.google.com",
+    "url": "https://www.google.com/?zx=1794518663751",
     "message": "All lessons are free. If you find them useful, you can support the creation of more lessons with an optional donation. Thank you!"
   },
   "lessons": [
     {
-      "title": "lesson title (title) water",
-      "category": "lesson topic (topic) nature",
+      "title": "L1",
+      "category": "T1",
       "path": "lessons/nature.html",
-      "description": "Make sure it is lesson topic and lesson title in that order",
+      "description": "Practise common greetings and introductions.",
+      "level": "Beginner"
+    },
+    {
+      "title": "q1",
+      "category": "h1",
+      "path": "lessons/historyqs.html",
+      "description": "Practise common greetings and introductions.",
       "level": "Beginner"
     }
   ]
