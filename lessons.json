@@ -2,23 +2,16 @@
   "title": "Irish Conversation Practice",
   "subtitle": "Choose a lesson to begin practising.",
   "donation": {
-    "url": "https://buymeacoffee.com/officialke0",
+    "url": "https://www.google.com",
     "message": "All lessons are free. If you find them useful, you can support the creation of more lessons with an optional donation. Thank you!"
   },
   "lessons": [
     {
-      "title": "Irregular Verb to be (bí): Closed questions",
-      "category": "General Conversation.",
-      "path": "lessons/to_be_closed_questions.html",
-      "description": "Present Simple closed questions of the Irish verb Bí (to be). An bhfuil mé/tú/sé/sí/sibh/siad\nThe 11 Irish Irregular verbs: bí (to be), déan (to make), clois/cluin (to hear), feic (to see), abair (to say), ith (to eat), téigh (to go), tar (to come), tabhair (to give), faigh (to receive),",
+      "title": "Nature",
+      "category": "hello",
+      "path": "lessons/nature.html",
+      "description": "is this working",
       "level": "Beginner"
-    },
-    {
-      "title": "Cén fáth a bhfuil tú ag caoineadh mar sin",
-      "category": "General Conversation",
-      "path": "lessons/cenfath.html",
-      "description": "1 question 7 answers.",
-      "level": ""
     }
   ]
 }
