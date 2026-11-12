@@ -7,10 +7,10 @@
   },
   "lessons": [
     {
-      "title": "Nature",
-      "category": "hello",
+      "title": "lesson title (title) water",
+      "category": "lesson topic (topic) nature",
       "path": "lessons/nature.html",
-      "description": "is this working",
+      "description": "Make sure it is lesson topic and lesson title in that order",
       "level": "Beginner"
     }
   ]
