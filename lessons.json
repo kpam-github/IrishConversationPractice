@@ -19,6 +19,13 @@
       "path": "lessons/historyqs.html",
       "description": "Practise common greetings and introductions.",
       "level": "Beginner"
+    },
+    {
+      "title": "historyqstwo",
+      "category": "T1",
+      "path": "lessons/historyqstwo.html",
+      "description": "Slayer",
+      "level": ""
     }
   ]
 }
